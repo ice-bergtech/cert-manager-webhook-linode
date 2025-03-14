@@ -1,8 +1,8 @@
-module github.com/linode/cert-manager-webhook-linode
+module github.com/ice-bergtech/cert-manager-webhook-linode
 
-go 1.22.0
+go 1.22.12
 
-toolchain go1.22.6
+toolchain go1.22.12
 
 require (
 	github.com/cert-manager/cert-manager v1.15.3
